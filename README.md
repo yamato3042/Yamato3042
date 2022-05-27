@@ -1,4 +1,4 @@
-### Hi I'm Yamato30 a french dev 👋
+### Hi I'm Yamato30 a French dev 👋
 
 <!--- Working on an Isometric 2.5D RPG-->
 
